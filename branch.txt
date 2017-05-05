@@ -1,6 +1,7 @@
 I'm comming.
 dev add
 zhang add
+<<<<<<< hhhHEAD
 <<<<<1111<< HEAD
 --no-ff
 <<<<<<< HEAD----------------hahahaha
@@ -11,3 +12,6 @@ zhang add
 =======
 aaaaaa
 >>>>>>> dev
+=======
+hhhh
+>>>>>>> zhang
